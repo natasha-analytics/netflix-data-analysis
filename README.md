@@ -21,5 +21,12 @@ The dataset contains information about:
 - Jupyter Notebook (Google Colab)
 
 ## Project Status
-🚧 Analysis in progress
+✅ Completed
+
+## Key Insights
+- Movies dominate Netflix content, but TV Shows are growing rapidly
+- United States produces the highest number of titles
+- Drama and International Movies are the most common genres
+- Content production increased significantly after 2015
+
 
